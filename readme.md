@@ -10,8 +10,7 @@ source ./install.sh
 ```
 
 ## Example
-After install, we can use mygit instead of git.
-Please see test folder for example.
+After installation, we can use mygit instead of git.
 
 ```
 # Make sure we start from scratch
