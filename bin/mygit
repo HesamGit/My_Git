@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+from mygit.main import main
+main()
